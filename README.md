@@ -9,8 +9,9 @@ Minha stack principal inclui **React**, **Node.js** e **Next.js**. Além de coda
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?20%style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herbertonmiguel)
 
-
 ![Herberton Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=HerbertonMiguel-Dev&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertonMiguel-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que eu uso no meu dia 
 
@@ -32,4 +33,6 @@ Minha stack principal inclui **React**, **Node.js** e **Next.js**. Além de coda
 <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img align="center" alt="stripe" src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 </div>
+
+
 
